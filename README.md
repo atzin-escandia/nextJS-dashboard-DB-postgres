@@ -1,5 +1,60 @@
-## Next.js App Router Course - Starter
+```markdown
+# NextJs Dashboard Data Base Postgres 🧑‍💻
 
-This is the starter template for the Next.js App Router Course. It contains the starting code for the dashboard application.
+A Next.js dashboard application with a Postgres database.
 
-For more information, see the [course curriculum](https://nextjs.org/learn) on the Next.js Website.
+## Features ✨
+
+1. **User Management**: Add, remove, and edit users easily.
+2. **Testing**: Comprehensive testing suite ensures app reliability.
+3. **Data Fetching**: Utilizes promises to handle asynchronous data fetching.
+4. **State Management**: Employs Redux for efficient state management.
+
+## Desktop 🖥️
+
+[Desktop Screenshot]
+
+## Mobile 📱
+
+[Mobile Screenshot]
+
+## Installation 💻
+
+1. Clone this repository:
+
+```bash
+git clone https://github.com/your-username/nextjs-dashboard-postgres.git
+```
+
+2. Navigate to the project directory:
+
+```bash
+cd nextjs-dashboard-postgres
+```
+
+3. Install the dependencies:
+
+```bash
+npm install
+```
+
+4. Start the development server:
+
+```bash
+npm start
+```
+
+5. Open your browser and go to http://localhost:3000 to start using the Next.js Dashboard App with Postgres!
+
+## Usage 🚀
+
+1. **Adding Users**: Click the "Add User" button, fill in the details, and click "Save".
+2. **Editing Users**: Click on a user's name to edit their details and click "Save" when done.
+3. **Removing Users**: Click the "Remove" button next to a user's name to delete them.
+
+## Contributing 🛠️
+
+Contributions are welcome! If you find a bug or have an idea for an enhancement, please open an issue or submit a pull request.
+
+If you find this app useful, consider giving the repository a star! ✨
+```
