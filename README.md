@@ -1,14 +1,7 @@
-```markdown
 # NextJs Dashboard Data Base Postgres 🧑‍💻
 
 A Next.js dashboard application with a Postgres database.
 
-## Features ✨
-
-1. **User Management**: Add, remove, and edit users easily.
-2. **Testing**: Comprehensive testing suite ensures app reliability.
-3. **Data Fetching**: Utilizes promises to handle asynchronous data fetching.
-4. **State Management**: Employs Redux for efficient state management.
 
 ## Desktop 🖥️
 
@@ -46,11 +39,6 @@ npm start
 
 5. Open your browser and go to http://localhost:3000 to start using the Next.js Dashboard App with Postgres!
 
-## Usage 🚀
-
-1. **Adding Users**: Click the "Add User" button, fill in the details, and click "Save".
-2. **Editing Users**: Click on a user's name to edit their details and click "Save" when done.
-3. **Removing Users**: Click the "Remove" button next to a user's name to delete them.
 
 ## Contributing 🛠️
 
